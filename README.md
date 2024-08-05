@@ -1,3 +1,3 @@
 # git-github
 <br>
-Creator: Muqaddas Mehboob
+Creator: Muqaddas Mehboob (Apna college)
